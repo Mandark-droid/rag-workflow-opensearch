@@ -53,7 +53,7 @@ Inspired by real-world observability and GenAI use cases!
 ### 1. Clone Repository
 
 ```bash
-git clone https://github.com/yourusername/realtime-rag-pipeline-opensearch.git
+git clone https://github.com/Mandark-droid/rag-workflow-opensearch.git 
 cd realtime-rag-pipeline-opensearch
 pip install -r requirements.txt
 # Start OpenSearch locally (via Docker):

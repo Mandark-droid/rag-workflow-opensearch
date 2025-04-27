@@ -1,0 +1,2 @@
+Security best practices include enforcing strong passwords, enabling multifactor authentication (MFA),
+monitoring system logs regularly, and conducting quarterly security audits.

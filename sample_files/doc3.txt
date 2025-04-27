@@ -1,0 +1,1 @@
+Retrieval Augmented Generation (RAG) combines retrieval of documents with language models to answer queries with external knowledge.

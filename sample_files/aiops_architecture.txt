@@ -1,0 +1,2 @@
+Our AIOps platform uses microservices architecture with OpenSearch for log management,
+Kafka for streaming, and LLMs for anomaly detection and remediation recommendations.

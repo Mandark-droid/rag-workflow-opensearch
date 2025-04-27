@@ -1,0 +1,7 @@
+opensearch-py
+sentence-transformers
+watchdog
+gradio
+transformers
+torch
+PyYAML

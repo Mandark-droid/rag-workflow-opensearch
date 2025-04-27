@@ -1,0 +1,1 @@
+OpenSearch is a community-driven, open source search and analytics suite derived from Elasticsearch 7.10.2.

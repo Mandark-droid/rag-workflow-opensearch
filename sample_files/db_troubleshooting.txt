@@ -1,0 +1,2 @@
+If you experience database connection issues, ensure that your credentials are correct,
+your firewall allows traffic to the database server, and that the database service is active.
